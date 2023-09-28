@@ -1,7 +1,7 @@
-# FahadiQureshi.github.io
+
 # Data Scientist
 
 ##Expereince
-
+huawei
 ###Education
-
+MS
