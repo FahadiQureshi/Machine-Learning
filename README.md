@@ -80,3 +80,6 @@ FYP:
 
 •	Blockchain Specialization (smart contract) courses from university of buffalo.
 
+links
+
+LinkedIn: linkedin.com/in/fahadi-qureshi
