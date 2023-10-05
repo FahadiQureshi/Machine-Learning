@@ -57,7 +57,7 @@ FYP:
 
 •	Neo4j, Matplotlib, Seaborn, NetworkX 
 
-•	Annaconda Navigator (Spyder, Jupyter)
+•	Annaconda Navigator (Spyder, Jupyter), Visual studio
 
 ###ANALYTICAL SKILLS
 
@@ -77,13 +77,10 @@ FYP:
 
 •	Multisim
 
-
-
 ### CERTIFICATION
 •	Fundamentals of Deep learning by NVIDIA.
 
 •	OFFICE Automation Course.
-
 
 •	Microsoft Power BI certificate by Dice Analytics.
 
