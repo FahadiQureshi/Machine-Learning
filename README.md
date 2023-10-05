@@ -1,7 +1,6 @@
 
-# Data Scientist
+# Summary
 
-###About
 Data scientist with experience in developing and implementing Machine and Deep learning models, leveraging big data technologies, and delivering data-driven insights to decision-makers. Proficient in Python, SQL, and R, with ability of improving model accuracy through feature engineering. Experienced in Huawei-Jazz for optimization, monitoring and analyzing Kpis. Highly skilled and motivated using big data and data visualization tools such as Hadoop, Apache Spark, Power-BI, Tableau, Excel to communicate complex findings to stakeholders.
 
 
