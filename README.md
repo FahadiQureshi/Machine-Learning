@@ -5,6 +5,21 @@ Data scientist with experience in developing and implementing Machine and Deep l
 
 
 ### Expereince
+
+##OMCR ENGINEER, HUAWEI JAZZ          
+
+•	RF parameter audit, optimization, evaluation, Monitoring and KPI analysis for 2G,3G,4G cells to improve coverage and accessibility.
+
+•	Maintaining database of whole network sites of all technologies that help to get fresh data for optimization process.
+
+•	Upgradation of 4G into 5G, u2000 server to u2020:
+
+•	Analysis of kpis of update server for maintaining the Throughput, PS call, CS calls, HHO, TA.
+Data Analysis Sharing 2G, 3G, and 4G benchmarksby analyzing different kpis & highlighting issues to maintain credibility of network sites.
+
+
+
+
 Freelancing
 Machine Learning
 Data VIsualization
@@ -32,41 +47,37 @@ FYP:
 •	Facial recognition based attendance system using Python.
 
 ### SKILLS
-•	Python 
+•	Python, SQl, R, C++, C#
 
-•	SQL
+•	Power BI,Tableau
 
-•	R 
-
-•	MS Office(Word, Excel, PowerPoint)
-
-•	SPSS 
-
-•	Power BI
-
-•	Tableau
-
-•	Hadoop
-
-•	Apache Spark
+•	Hadoop, Apache Spark
 
 •	MATLAB
 
-•	Neo4j	•	Matplotlib, Seaborn, NetworkX 
+•	Neo4j, Matplotlib, Seaborn, NetworkX 
 
-•	Libraries: Panda,  Numpy, Tensorflow, Scikit-learn, Keras, Open CV
+•	Annaconda Navigator (Spyder, Jupyter)
 
-•	Deep/Machine learning Model building i.e. CNN, RNN, Tree based, SVM, KNN etc.
+###ANALYTICAL SKILLS
 
-•	C++ 
+•	Machine/Deep Learning Algorithms implementation	
+•	Python, Scala, R
+•	Parallel Processing with Apache Spark (PySpark)
+•	SciPy, Panda,  Numpy, Tensorflow, Scikit-learn, Keras, Open CV
+•	SPSS, Weka
 
-•	C# 
+###Software Skills
 
-•	SSO Agent (Jazz software)
+•	SSO Agent (u2020-Jazz software)
+
+•	MS Office
 
 •	Cisco Packet Tracer
 
 •	Multisim
+
+
 
 ### CERTIFICATION
 •	Fundamentals of Deep learning by NVIDIA.
