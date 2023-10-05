@@ -82,4 +82,4 @@ FYP:
 
 links
 
-LinkedIn: (linkedin.com/in/fahadi-qureshi)
+LinkedIn: (https://linkedin.com/in/fahadi-qureshi)
